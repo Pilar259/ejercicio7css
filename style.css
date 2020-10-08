@@ -1,0 +1,73 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.rgb1 {
+    background-color: rgb(224, 187, 228);
+}
+
+.rgb2 {
+    background-color: rgb(149, 125, 173);
+}
+
+.rgb3 {
+    background-color: rgb(210, 145, 188);
+}
+
+.rgb4 {
+    background-color: rgb(254, 200, 216);
+}
+
+.rgb5 {
+    background-color: rgb(255, 223, 211);
+}
+
+.hsl1{
+    background-color: hsla(213, 55%, 41%, 1);
+}
+
+.hsl2{
+    background-color: hsla(179, 55%, 39%, 1);
+}
+
+.hsl3{
+    background-color: hsla(24, 55%, 39%, 1);
+}
+
+.hsl4{
+    background-color: hsla(286, 55%, 31%, 1);
+}
+
+.hsl5{
+    background-color: hsla(356, 55%, 31%, 1);
+}
+
+.hex1 {
+    background-color: #1a1a1a;
+    color: seashell;
+}
+
+.hex2 {
+    background-color: #857e7e;
+}
+
+.hex3 {
+    background-color: #c5c5c5;
+}
+
+.hex4 {
+    background-color: #470012;
+    color: seashell;
+}
+
+.hex5 {
+    background-color: #7a002b;
+}
